@@ -1,0 +1,8 @@
+checkpoint/
+*.pyc
+nms/
+roialign/
+test/
+*~
+*.swp
+gazebo_images/
